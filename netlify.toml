@@ -3,5 +3,5 @@
   command = "gridsome build"
   
 [template.environment]
-  GRIDSOME_SHOPIFY_STOREFRONT = "MELVINHGF.NET™ Solutions Store"
-  GRIDSOME_SHOPIFY_STOREFRONT_TOKEN = "Your Shopify Storefront Token"
+  GRIDSOME_SHOPIFY_STOREFRONT = "https://hgfs-store.myshopify.com"
+  GRIDSOME_SHOPIFY_STOREFRONT_TOKEN = "5b799cd729415d38e25ece8d58cc2e08"
